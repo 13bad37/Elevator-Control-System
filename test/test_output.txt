@@ -1,0 +1,3 @@
+### Current state: {B4, B4, Closed, 0, 0, 0, 0, 0, 0, 0}
+    ### Current state: {B4, B4, Closed, 0, 0, 0, 0, 0, 0, 0}
+    timeout: the monitored command dumped core
